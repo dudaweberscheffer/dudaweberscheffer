@@ -1,4 +1,4 @@
-# 💻 Eduarda Weber Scheffer
+# Eduarda Weber Scheffer
 **`Desenvolvedora FullStack`**
 
 ### Linguagem e Tecnologias
